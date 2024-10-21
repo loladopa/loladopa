@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =========================================================================================================================================
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/2e/c5/22/2ec5225db04780709746f0c255123960.gif" width="600" height="300"/>
+  <img src="https://i.pinimg.com/originals/2e/c5/22/2ec5225db04780709746f0c255123960.gif" width="1000" height="500"/>
 </div>
 
 ### Skills
